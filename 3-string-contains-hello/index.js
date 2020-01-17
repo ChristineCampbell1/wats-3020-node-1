@@ -20,8 +20,8 @@ if (!input) {
 else {
   // TODO write a logical expression to test if the input contains a "hello"
   if (input.indexOf('hello') > -1) {
-  console.log('hello was found at position ${input.indexOf('hello)} of the string ${input}.');
+  console.log(`hello was found at position ${input.indexOf('hello')} of the string ${input}.`);
   } else {
-   console.log('hello was not found in the string ${input}.');
+   console.log(`hello was not found in the string ${input}.`);
   }
 }

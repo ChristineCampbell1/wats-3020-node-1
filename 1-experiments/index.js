@@ -33,7 +33,7 @@ console.log("string + int ", STRING_VALUE+INT_VALUE);
 // log int + string
 console.log("int + string ", INT_VALUE+STRING_VALUE);
 // log int + int + string
-console.log("int + int + string ", INT_VALUE+INT_VALUE+STRING_VALUE):
+console.log("int + int + string ", INT_VALUE+INT_VALUE+STRING_VALUE);
 // log add string to float
 console.log("string + float ", STRING_VALUE+FLOAT_VALUE);
 // log add string to true
